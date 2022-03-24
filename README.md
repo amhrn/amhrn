@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mhrn77
+- 👋 Hi, I’m @amhrn
 - 👀 I’m interested in Laravel, React & Flutter
 - 🌱 I’m currently learning the above 👆 and new to React & Flutter
-- 💞️ I’m looking to collaborate on Laravel projects & learning oppotunities
+- 💞️ I’m looking to collaborate on Laravel projects & for learning oppotunities
 - 📫 How to reach me: you can reach me on [t.me/mhrn77](https://t.me/mhrn77)
 
 <!---
