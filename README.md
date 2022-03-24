@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amhrn
+- 👋 Hi, I’m Ahmed Mahran
 - 👀 I’m interested in Laravel, React & Flutter
 - 🌱 I’m currently learning the above 👆 and new to React & Flutter
 - 💞️ I’m looking to collaborate on Laravel projects & for learning oppotunities
